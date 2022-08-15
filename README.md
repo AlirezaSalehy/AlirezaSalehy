@@ -1,4 +1,4 @@
-# Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://github.com/A-R-S-D/">Alireza</a> <img width="80" src="https://github.com/A-R-S-D/A-R-S-D/blob/cf82969a1602ee72bb20cce6744187f8924fab69/resources/gifs/microbit-happy-face.gif">
+# <p> Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://github.com/A-R-S-D/">Alireza</a> &nbsp;&nbsp; <img width="80" src="https://github.com/A-R-S-D/A-R-S-D/blob/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif"> </p>
 - I’m currently working on a home automation project using mostly ESP32 MCUs.
 - I love embedded systems and modern C++ programming. have learned a lot about STM32, ESP32, AVR MCUs, and their respective platforms including STM32Cube, Arduino, and Codevision. I'm also highly interested in computer networks and database concepts and contributed to these courses in <a href="https://aut.ac.ir/en/">AUT</a> during my BSE.
   - Embedded systems and Assembly Language as TA and head TA for four semesters
