@@ -1,7 +1,19 @@
-# <p> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="https://github.com/A-R-S-D/">Alireza</a> &nbsp;&nbsp; <img width="80" src="https://github.com/A-R-S-D/A-R-S-D/blob/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif"> </p>
-- Currently studying for MSc in AI at <a href="https://ece.ut.ac.ir/en">UT</a> with focus on Anomaly Detection leveraging Knowledge Distillation and maybe Vision-Language Models. I welcome opportunities that deepen my knowledge and fulfill enthusiasm in the field, especially if it's associated with the IoT workspace (which is my enduring passion).
+# <p> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="https://github.com/AlirezaSalehy">Alireza</a> </p>
 
-- As a passionate embedded systems engineer and modern C++ programmer, I have honed my skills in STM32, ESP32, and AVR MCUs, and their respective platforms including STM32Cube, Arduino, and Codevision and developed an open source user friendly lib <a href="https://github.com/AlirezaSalehy/WAVRecorder">WAVRecorder</a>. I'm also highly interested in computer networks and database concepts and contributed to courses Embedded systems and Assembly (as head TA), Computer Networking and Principles of Database Design at <a href="https://aut.ac.ir/en/">AUT</a> during my BSE designing HWs and Embedded systems' lab materials.
+🎓 **MSc Student in Artificial Intelligence | University of Tehran**  
+🔍 **Research Focus**: Vision-Language Models, Anomaly Detection, Efficient Fine-Tuning 
 
-<!-- <p  align="left"><img src="https://visitor-badge.glitch.me/badge?page_id=A-R-S-D.readme.md&left_color=green&right_color=red" alt="visitor badge"/>
-                 -->
+I'm currently completing my MSc in Artificial Intelligence at the University of Tehran, where my research centers on **data- and parameter-efficient fine-tuning of vision-language foundation models** for **zero-shot image anomaly detection**. My work explores the intersection of **deep learning**, **prompt learning**, and **multimodal systems**, with a growing interest in deploying these capabilities in real-world, resource-constrained environments.  
+
+🔭 I’m particularly drawn to research opportunities that let me deepen my understanding of **intelligent perception systems**, especially when applied in the context of **IoT** — a long-standing passion of mine.  
+
+---
+
+🛠️ **Embedded Systems Engineer | Modern C++ Enthusiast** &nbsp;&nbsp;<img src="https://github.com/A-R-S-D/A-R-S-D/raw/49d66e2721eef583be6cde61ff187c15a3be4ea4/resources/gifs/helloGreetingsMicroBits.gif" width="40">
+
+Before diving into AI, I spent several years during my BSc at Amirkabir University of Technology working with embedded systems and low-level development. I developed [**WAVRecorder**](https://github.com/AlirezaSalehy/WAVRecorder), a user-friendly open-source library for audio recording.
+
+---
+
+💬 Always happy to connect, collaborate, and learn — especially on projects that bridge embedded intelligence with scalable AI.
+
