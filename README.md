@@ -17,3 +17,13 @@ Before diving into AI, I spent several years during my BSc at Amirkabir Universi
 
 💬 Always happy to connect, collaborate, and learn — especially on projects that bridge embedded intelligence with scalable AI.
 
+## 🏷️ Research Interests
+
+![AI](https://img.shields.io/badge/AI-Research-blue)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-ZSAD-orange)
+![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-Multimodal-green)
+![IoT](https://img.shields.io/badge/IoT-Embedded%20AI-blue)
+
+![Followers](https://img.shields.io/github/followers/AlirezaSalehy?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/AlirezaSalehy?style=social)
+
