@@ -3,7 +3,7 @@
 🎓 **MSc Student in Artificial Intelligence | University of Tehran**  
 🔍 **Research Focus**: Vision-Language Models, Anomaly Detection, Efficient Fine-Tuning 
 
-I'm currently completing my MSc in Artificial Intelligence at the University of Tehran, where my research centers on **data- and parameter-efficient fine-tuning of vision-language foundation models** for **zero-shot image anomaly detection**. My work explores the intersection of **deep learning**, **prompt learning**, and **multimodal systems**, with a growing interest in deploying these capabilities in real-world, resource-constrained environments.  
+I'm currently completing my MSc in Artificial Intelligence at the University of Tehran, where my thesis is centered on **data- and parameter-efficient fine-tuning of vision-language foundation models** for **zero-shot image anomaly detection**, which resulted in the paper [**Crane**](https://github.com/AlirezaSalehy/Crane). With a growing interest, I explore techniques for deploying **deep learning** capabilities in real-world, resource-constrained environments. 
 
 ---
 
